@@ -12,8 +12,13 @@ li a:hover {
 
 h1 {
     font-size: 15vw;
+     /* Claude suggested this value in order to make the site more responsive*/
 }
 
 h2 {
-    font-size: 25px;
+    font-size: 40px;
+}
+
+button:hover{
+    text-decoration: underline;
 }
